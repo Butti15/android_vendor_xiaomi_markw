@@ -572,25 +572,25 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/markw/proprietary/vendor/etc/cacert_location.pem:$(TARGET_COPY_OUT_VENDOR)/etc/cacert_location.pem \
     vendor/xiaomi/markw/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
     vendor/xiaomi/markw/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile1.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile2.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile3.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile4.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile5.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile5.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile6.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile6.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ROW/ROW_profile1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ROW/ROW_profile1.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ROW/ROW_profile2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ROW/ROW_profile2.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ROW/ROW_profile3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ROW/ROW_profile3.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ROW/ROW_profile4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ROW/ROW_profile4.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ROW/ROW_profile5.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ROW/ROW_profile5.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ROW/ROW_profile6.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ROW/ROW_profile6.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/ROW/ROW_profile7.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ROW/ROW_profile7.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile1.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile2.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile3.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile4.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile5.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile5.xml \
-    vendor/xiaomi/markw/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile6.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile6.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ATT/ATT_profile1.xml:system/etc/cne/wqeclient/ATT/ATT_profile1.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ATT/ATT_profile2.xml:system/etc/cne/wqeclient/ATT/ATT_profile2.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ATT/ATT_profile3.xml:system/etc/cne/wqeclient/ATT/ATT_profile3.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ATT/ATT_profile4.xml:system/etc/cne/wqeclient/ATT/ATT_profile4.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ATT/ATT_profile5.xml:system/etc/cne/wqeclient/ATT/ATT_profile5.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ATT/ATT_profile6.xml:system/etc/cne/wqeclient/ATT/ATT_profile6.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ROW/ROW_profile1.xml:system/etc/cne/wqeclient/ROW/ROW_profile1.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ROW/ROW_profile2.xml:system/etc/cne/wqeclient/ROW/ROW_profile2.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ROW/ROW_profile3.xml:system/etc/cne/wqeclient/ROW/ROW_profile3.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ROW/ROW_profile4.xml:system/etc/cne/wqeclient/ROW/ROW_profile4.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ROW/ROW_profile5.xml:system/etc/cne/wqeclient/ROW/ROW_profile5.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ROW/ROW_profile6.xml:system/etc/cne/wqeclient/ROW/ROW_profile6.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/ROW/ROW_profile7.xml:system/etc/cne/wqeclient/ROW/ROW_profile7.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/VZW/VZW_profile1.xml:system/etc/cne/wqeclient/VZW/VZW_profile1.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/VZW/VZW_profile2.xml:system/etc/cne/wqeclient/VZW/VZW_profile2.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/VZW/VZW_profile3.xml:system/etc/cne/wqeclient/VZW/VZW_profile3.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/VZW/VZW_profile4.xml:system/etc/cne/wqeclient/VZW/VZW_profile4.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/VZW/VZW_profile5.xml:system/etc/cne/wqeclient/VZW/VZW_profile5.xml \
+    vendor/xiaomi/markw/proprietary/etc/cne/wqeclient/VZW/VZW_profile6.xml:system/etc/cne/wqeclient/VZW/VZW_profile6.xml \
     vendor/xiaomi/markw/proprietary/vendor/etc/data/dsi_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/dsi_config.xml \
     vendor/xiaomi/markw/proprietary/vendor/etc/data/netmgr_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/netmgr_config.xml \
     vendor/xiaomi/markw/proprietary/vendor/etc/dpm/dpm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/dpm/dpm.conf \
