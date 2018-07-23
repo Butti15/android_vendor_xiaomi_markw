@@ -60,6 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/markw/proprietary/vendor/lib/libmmcamera_ov5670_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ov5670_eeprom.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libmmcamera_ov5670.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ov5670.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libmmcamera_ov5670_sunny.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ov5670_sunny.so \
+    vendor/xiaomi/markw/proprietary/vendor/lib/libmmcamera_paaf_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_paaf_lib.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libmmcamera_pdafcamif.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_pdafcamif.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libmmcamera_pdaf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_pdaf.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libmmcamera_qtech_f3l8yam_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_qtech_f3l8yam_eeprom.so \
