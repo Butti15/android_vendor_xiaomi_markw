@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),markw)
+ifeq ($(TARGET_DEVICE),taco)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libts_detected_face_hal
